@@ -1,0 +1,10 @@
+D:\Practice\OS\Fruit2\Fruit2\bin\Debug\Fruit2.exe.config
+D:\Practice\OS\Fruit2\Fruit2\bin\Debug\Fruit2.exe
+D:\Practice\OS\Fruit2\Fruit2\bin\Debug\Fruit2.pdb
+D:\Practice\OS\Fruit2\Fruit2\obj\Debug\Fruit2.csproj.AssemblyReference.cache
+D:\Practice\OS\Fruit2\Fruit2\obj\Debug\Fruit2.Form1.resources
+D:\Practice\OS\Fruit2\Fruit2\obj\Debug\Fruit2.Properties.Resources.resources
+D:\Practice\OS\Fruit2\Fruit2\obj\Debug\Fruit2.csproj.GenerateResource.cache
+D:\Practice\OS\Fruit2\Fruit2\obj\Debug\Fruit2.csproj.CoreCompileInputs.cache
+D:\Practice\OS\Fruit2\Fruit2\obj\Debug\Fruit2.exe
+D:\Practice\OS\Fruit2\Fruit2\obj\Debug\Fruit2.pdb
