@@ -1,0 +1,6 @@
+﻿  Bank.cpp
+D:\Practice\OS\Bank\Bank\Bank.cpp(82,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Practice\OS\Bank\Bank\Bank.cpp(247,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  Bank.vcxproj -> D:\Practice\OS\Bank\x64\Debug\Bank.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
